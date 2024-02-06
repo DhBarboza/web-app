@@ -1,0 +1,35 @@
+# Node.js dependencies
+node_modules
+
+# Arquivos de build TypeScript
+dist/
+
+# Arquivos de log
+logs
+*.log
+
+# Arquivos de configuração específicos do sistema
+.env
+
+# Arquivos de dependências de desenvolvimento
+*.swp
+.DS_Store
+npm-debug.log*
+
+# Diretório de cache do npm
+.npm
+
+# Diretório de cache do Yarn
+.yarn
+
+# Arquivos temporários
+*.tmp
+
+# Arquivos de compilação
+*.js
+
+# Arquivos de backup
+*.bak
+
+# Arquivos de teste
+coverage/
